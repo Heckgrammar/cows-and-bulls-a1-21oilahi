@@ -1,0 +1,7 @@
+U:\Visual Studio 2024\Cows and Bulls\Cows and Bulls Game\Cows and Bulls Game\bin\Debug\Cows and Bulls Game.exe.config
+U:\Visual Studio 2024\Cows and Bulls\Cows and Bulls Game\Cows and Bulls Game\bin\Debug\Cows and Bulls Game.exe
+U:\Visual Studio 2024\Cows and Bulls\Cows and Bulls Game\Cows and Bulls Game\bin\Debug\Cows and Bulls Game.pdb
+U:\Visual Studio 2024\Cows and Bulls\Cows and Bulls Game\Cows and Bulls Game\obj\Debug\Cows and Bulls Game.csproj.AssemblyReference.cache
+U:\Visual Studio 2024\Cows and Bulls\Cows and Bulls Game\Cows and Bulls Game\obj\Debug\Cows and Bulls Game.csproj.CoreCompileInputs.cache
+U:\Visual Studio 2024\Cows and Bulls\Cows and Bulls Game\Cows and Bulls Game\obj\Debug\Cows and Bulls Game.exe
+U:\Visual Studio 2024\Cows and Bulls\Cows and Bulls Game\Cows and Bulls Game\obj\Debug\Cows and Bulls Game.pdb
